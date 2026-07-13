@@ -9,8 +9,15 @@ My research interests include:
   />
 </div>
 
+## My Top Languages
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&layout=compact&langs_count=8&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&langs_count=8&theme=github_dark"
+      alt="Top Languages"
+    />
+  </a>
 </div>
 <!--
 **qihanzou/qihanzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
