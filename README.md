@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qihanzou)](https://github.com/ryo-ma/github-profile-trophy)
+## 💻 Programming Languages
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    alt="Programming Language Statistics"
+  />
+</p>
+
 <!--
 **qihanzou/qihanzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
