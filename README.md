@@ -11,14 +11,13 @@
 
 ### My Most Used Languages:
 
-<div align="center">
+
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&langs_count=8&theme=transparent"
       alt="Most Used Languages"
     />
   </a>
-</div>
 
 
 
