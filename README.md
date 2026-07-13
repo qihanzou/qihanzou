@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My research interests include:
+### My research interests include:
 
 <div align="center">
   <img
@@ -9,7 +9,7 @@ My research interests include:
   />
 </div>
 
-# My Top Languages are:
+### My Top Languages are:
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
