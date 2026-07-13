@@ -9,7 +9,7 @@
   />
 </div>
 
-### My Most Used Languages
+### My Most Used Languages:
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
