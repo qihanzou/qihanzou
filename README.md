@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&langs_count=8&theme=github_dark"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&langs_count=8&tokyonight"
       alt="Most Used Languages"
     />
   </a>
