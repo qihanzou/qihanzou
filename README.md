@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-## 💻 Programming Languages
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&langs_count=8&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **qihanzou/qihanzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
