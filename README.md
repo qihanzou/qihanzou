@@ -2,6 +2,11 @@
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=qihanzou&langs_count=8&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Researcher+in+Spatial+Statistics;Simulation-Based+Inference;Log-Gaussian+Cox+Processes;Deep+Learning+for+Statistical+Inference)](https://git.io/typing-svg)
+
+</div>
 <!--
 **qihanzou/qihanzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
