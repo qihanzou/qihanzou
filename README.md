@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Spatial+Point+Processes;Spatial+Measurement+Error+Correction;Change+of+Spatial+Support+and+Data+Fusion;Spatio-Temporal+Point+Processes;Likelihood-Free+Inference"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Spatial+Point+Processes;Spatial+Measurement+Error+Correction;Change+of+Spatial+Support+and+Data+Fusion;Spatio-Temporal+Point+Processes;Likelihood-Free+Inference"
     alt="Animated list of research interests"
   />
 </div>
